@@ -1,0 +1,10 @@
+D:\Media Library\C#\PersonalProjects\Cosmonautics\Particles\obj\Debug\Particles.csprojResolveAssemblyReference.cache
+D:\Media Library\C#\PersonalProjects\Cosmonautics\Particles\bin\Debug\Particles.dll
+D:\Media Library\C#\PersonalProjects\Cosmonautics\Particles\bin\Debug\Particles.pdb
+D:\Media Library\C#\PersonalProjects\Cosmonautics\Particles\obj\Debug\Particles.dll
+D:\Media Library\C#\PersonalProjects\Cosmonautics\Particles\obj\Debug\Particles.pdb
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\Particles\bin\Debug\Particles.dll
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\Particles\bin\Debug\Particles.pdb
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\Particles\obj\Debug\Particles.csprojResolveAssemblyReference.cache
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\Particles\obj\Debug\Particles.dll
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\Particles\obj\Debug\Particles.pdb

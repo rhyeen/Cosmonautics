@@ -1,0 +1,8 @@
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\TextRender\obj\Debug\TextRender.csprojResolveAssemblyReference.cache
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\TextRender\bin\Debug\TextRender.dll
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\TextRender\bin\Debug\TextRender.pdb
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\TextRender\bin\Debug\OpenTK.dll
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\TextRender\bin\Debug\OpenTK.pdb
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\TextRender\bin\Debug\OpenTK.xml
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\TextRender\obj\Debug\TextRender.dll
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\TextRender\obj\Debug\TextRender.pdb

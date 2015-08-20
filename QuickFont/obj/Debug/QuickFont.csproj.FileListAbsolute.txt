@@ -1,0 +1,6 @@
+C:\Users\Rhyeen\Desktop\QuickFont_1.0.2_0\QuickFont\QuickFont\bin\Debug\QuickFont.dll
+C:\Users\Rhyeen\Desktop\QuickFont_1.0.2_0\QuickFont\QuickFont\bin\Debug\QuickFont.pdb
+C:\Users\Rhyeen\Desktop\QuickFont_1.0.2_0\QuickFont\QuickFont\bin\Debug\OpenTK.dll
+C:\Users\Rhyeen\Desktop\QuickFont_1.0.2_0\QuickFont\QuickFont\obj\Debug\QuickFont.csprojResolveAssemblyReference.cache
+C:\Users\Rhyeen\Desktop\QuickFont_1.0.2_0\QuickFont\QuickFont\obj\Debug\QuickFont.dll
+C:\Users\Rhyeen\Desktop\QuickFont_1.0.2_0\QuickFont\QuickFont\obj\Debug\QuickFont.pdb

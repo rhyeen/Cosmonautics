@@ -1,0 +1,14 @@
+D:\Media Library\C#\PersonalProjects\Cosmonautics\Explosion\bin\Debug\Explosion.dll
+D:\Media Library\C#\PersonalProjects\Cosmonautics\Explosion\bin\Debug\Explosion.pdb
+D:\Media Library\C#\PersonalProjects\Cosmonautics\Explosion\obj\Debug\Explosion.csprojResolveAssemblyReference.cache
+D:\Media Library\C#\PersonalProjects\Cosmonautics\Explosion\obj\Debug\Explosion.dll
+D:\Media Library\C#\PersonalProjects\Cosmonautics\Explosion\obj\Debug\Explosion.pdb
+D:\Media Library\C#\PersonalProjects\Cosmonautics\Explosion\bin\Debug\Particles.dll
+D:\Media Library\C#\PersonalProjects\Cosmonautics\Explosion\bin\Debug\Particles.pdb
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\Explosion\bin\Debug\Explosion.dll
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\Explosion\bin\Debug\Explosion.pdb
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\Explosion\bin\Debug\Particles.dll
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\Explosion\bin\Debug\Particles.pdb
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\Explosion\obj\Debug\Explosion.csprojResolveAssemblyReference.cache
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\Explosion\obj\Debug\Explosion.dll
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\Explosion\obj\Debug\Explosion.pdb

@@ -1,0 +1,16 @@
+D:\Media Library\C#\PersonalProjects\Cosmonautics\ClientC\bin\Debug\ClientC.exe.config
+D:\Media Library\C#\PersonalProjects\Cosmonautics\ClientC\bin\Debug\ClientC.exe
+D:\Media Library\C#\PersonalProjects\Cosmonautics\ClientC\bin\Debug\ClientC.pdb
+D:\Media Library\C#\PersonalProjects\Cosmonautics\ClientC\obj\Debug\ClientC.csprojResolveAssemblyReference.cache
+D:\Media Library\C#\PersonalProjects\Cosmonautics\ClientC\obj\Debug\ClientC.exe
+D:\Media Library\C#\PersonalProjects\Cosmonautics\ClientC\obj\Debug\ClientC.pdb
+D:\Media Library\C#\PersonalProjects\Cosmonautics\ClientC\bin\Debug\ClientTCP.dll
+D:\Media Library\C#\PersonalProjects\Cosmonautics\ClientC\bin\Debug\ClientTCP.pdb
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\ClientC\obj\Debug\ClientC.csprojResolveAssemblyReference.cache
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\ClientC\obj\Debug\ClientC.exe
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\ClientC\bin\Debug\ClientC.exe.config
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\ClientC\bin\Debug\ClientC.exe
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\ClientC\bin\Debug\ClientC.pdb
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\ClientC\bin\Debug\ClientTCP.dll
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\ClientC\bin\Debug\ClientTCP.pdb
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\ClientC\obj\Debug\ClientC.pdb

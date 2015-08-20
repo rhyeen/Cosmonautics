@@ -1,0 +1,14 @@
+D:\Media Library\C#\PersonalProjects\Cosmonautics\ShipDrone\obj\Debug\ShipDrone.csprojResolveAssemblyReference.cache
+D:\Media Library\C#\PersonalProjects\Cosmonautics\ShipDrone\bin\Debug\ShipDrone.dll
+D:\Media Library\C#\PersonalProjects\Cosmonautics\ShipDrone\bin\Debug\ShipDrone.pdb
+D:\Media Library\C#\PersonalProjects\Cosmonautics\ShipDrone\obj\Debug\ShipDrone.dll
+D:\Media Library\C#\PersonalProjects\Cosmonautics\ShipDrone\obj\Debug\ShipDrone.pdb
+D:\Media Library\C#\PersonalProjects\Cosmonautics\ShipDrone\bin\Debug\Particles.dll
+D:\Media Library\C#\PersonalProjects\Cosmonautics\ShipDrone\bin\Debug\Particles.pdb
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\ShipDrone\bin\Debug\ShipDrone.dll
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\ShipDrone\bin\Debug\ShipDrone.pdb
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\ShipDrone\bin\Debug\Particles.dll
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\ShipDrone\bin\Debug\Particles.pdb
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\ShipDrone\obj\Debug\ShipDrone.csprojResolveAssemblyReference.cache
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\ShipDrone\obj\Debug\ShipDrone.dll
+C:\Users\Rhyeen\Google Drive\backup\CSHARP\Cosmonautics\ShipDrone\obj\Debug\ShipDrone.pdb
